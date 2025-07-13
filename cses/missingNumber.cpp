@@ -21,4 +21,6 @@ int main() {
     totalSum += n;
     diff = totalSum - numberSum;
     cout << diff << '\n';
+
+    return 0;
 }

@@ -27,4 +27,6 @@ int main() {
     }
 
     cout << maxRep << '\n';
+
+    return 0;
 }
