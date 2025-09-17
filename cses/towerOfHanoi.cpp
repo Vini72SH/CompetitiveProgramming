@@ -4,6 +4,7 @@
 
 using namespace std;
 
+// Move N disks from tower A to tower C using tower B as an auxiliary tower.
 void hanoi(int n, int a, int b, int c) {
     if (n == 0) return;
 
